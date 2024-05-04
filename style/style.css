@@ -1,0 +1,38 @@
+label{
+    position: absolute;
+    top: 50%; /* Posição no meio da tela */
+    left: 50%; /* Posição no meio da tela */
+    transform: translate(-50%, -50%); /* Centraliza o escrito */
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#joia{
+    position: absolute;
+    top: 75%; /* Posição no meio da tela */
+    left: 50%; /* Posição no meio da tela */
+    transform: translate(-50%, -50%); /* Centraliza o escrito */
+    font-weight: bold;
+    font-size: 40px;
+}
+#muda{
+    position: absolute;
+    top: 75%; /* Posição no meio da tela */
+    left: 75%; /* Posição no meio da tela */
+    transform: translate(-50%, -50%); /* Centraliza o escrito */
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.movido {
+    position: absolute;
+    top: 50%; /* Nova posição no meio da tela */
+    left: 50%; /* Nova posição no meio da tela */
+    transform: translate(-50%, -50%); /* Centraliza o botão */
+}
+
+
+#muda {
+    position: absolute; /* Posição absoluta para permitir o posicionamento personalizado */
+}
+
